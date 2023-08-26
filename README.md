@@ -27,7 +27,7 @@
 
 <a href="https://www.linkedin.com/in/sergio-dominguez-rivas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-[](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--
 - 👯 I’m looking to collaborate on ...
