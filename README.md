@@ -22,7 +22,9 @@
 ## Get in touch with me!
 
 <a href="mailto:sergidominguezrivas@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+
 <a href="https://github.com/Sergi7531"><img src="https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
 <a href="https://www.linkedin.com/in/sergio-dominguez-rivas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <!--
