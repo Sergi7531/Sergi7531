@@ -13,9 +13,19 @@
 
 <span><img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black" alt="Java logo" title="Java" height="25"/></span>
 
-<span><img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Java logo" title="Java" height="25"/></span>
+<span><img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS logo" title="Node JS" height="25"/></span>
 
+<span><img src = "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django logo" title="Django" height="25"/></span>
 
+<span><img src = "https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="Django REST logo" title="Django REST" height="25"/></span>
+
+## Get in touch with me!
+
+<a href="mailto:sergidominguezrivas@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/Sergi7531"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/sergio-dominguez-rivas/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<!--
 - 👯 I’m looking to collaborate on ...
 
 
@@ -26,3 +36,4 @@
 - 📫 How to reach me: 
 
 - ⚡ Fun fact: ...
+-->
