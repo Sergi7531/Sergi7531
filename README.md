@@ -9,11 +9,9 @@
 
 ### <u> Languages & Frameworks: </u>
 
-<span><img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo" title="Python" height="25"/></span>
-
-<span><img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black" alt="Java logo" title="Java" height="25"/></span>
-
-<span><img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS logo" title="Node JS" height="25"/></span>
+<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo" title="Python" height="25"/>
+<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black" alt="Java logo" title="Java" height="25"/>
+<img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS logo" title="Node JS" height="25"/>
 
 <span><img src = "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django logo" title="Django" height="25"/></span>
 
