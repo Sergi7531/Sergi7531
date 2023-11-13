@@ -3,7 +3,7 @@
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
 - 🔭 Currently working
-💻 Backend developer at [IATI Seguros](iatiseguros.com)
+💻 Backend developer at [IATI Seguros](https://iatiseguros.com)
 
 ## 🚀💻 Technologies & Tools
 
