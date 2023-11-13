@@ -2,9 +2,9 @@
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
-- 🔭 Currently working
-💻 Backend developer at [IATI Seguros](https://iatiseguros.com)
-📌 Get to know more about me at: [sergidominguez.com](https://sergidominguez.com)
+- 🔭 Currently working: 
+- 💻 Backend developer at [IATI Seguros](https://iatiseguros.com)
+- 📌 Get to know more about me at: [sergidominguez.com](https://sergidominguez.com)
 
 ## 🚀💻 Technologies & Tools
 
