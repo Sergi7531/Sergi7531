@@ -14,7 +14,7 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-## Currently carrying on AWS knowledge:
+## Currently expanding my cloud knowledge:
 Certifications:
 - [AWS SAA-C03 (Solutions Architect - Associate)](https://cp.certmetrics.com/amazon/en/public/verify/credential/0ff3b7e20fb348ecabb4974ab75d995c)
 
