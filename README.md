@@ -16,7 +16,8 @@
 
 ## Currently expanding my cloud knowledge:
 Certifications:
-- [AWS SAA-C03 (Solutions Architect - Associate)](https://cp.certmetrics.com/amazon/en/public/verify/credential/0ff3b7e20fb348ecabb4974ab75d995c)
+- [AWS SAA-C03 (Solutions Architect - Associate)](https://www.credly.com/badges/8fc7fa91-7257-46fa-9ff5-711b4b1937c0)
+- [AWS DVA-C02 (Developer - Associate)](https://www.credly.com/badges/cda16591-7df2-4aaf-8e1f-c95169a0edc7)
 
 ## Get in touch with me!
 
